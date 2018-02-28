@@ -9,7 +9,6 @@ npm-debug.log
 log.md
 coverage
 jsconfig.json
-dist
 configs
 yarn.lock
 /*/seleniumOutput/errorShots/*.png
